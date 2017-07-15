@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 ---
 
-### Reflection
+### Reflection on the project
 
 ### 1. Pipeline Description. As part of the description, explain how you modified the draw_lines() function.
 
