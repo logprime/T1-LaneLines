@@ -16,7 +16,7 @@ The goals of this project are the following:
 [image3]: ./test_images_output/canny.png "Canny-Edges"
 [image4]: ./test_images_output/hough.png "Hough Transformed"
 [image5]: ./test_images_output/merge.png "Merged"
-[image6]: ./test_images_output/Unannotated_left_lane.png "Incomplete annotated"
+[image6]: ./test_images_output/Unannotated_left_lane.PNG "Incomplete annotated"
 
 ---
 
