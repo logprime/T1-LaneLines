@@ -75,10 +75,7 @@ My initial solution ran well on the sample image and video streams.
 However there were times when the image showed up unannotated which led to lines appearing jumpy when the video was running. This was mentioned in the previous section. 
 
 
-Another shortcoming could be ...
-
-
-### 3. Suggest possible improvements to your pipeline
+### 3. Suggestions for improvements to the pipeline
 
 These are some of the ways I have explored to improve my solution:-
 
